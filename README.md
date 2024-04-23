@@ -25,6 +25,8 @@ If you wish to create a new layout, go to file>new layout.  You can rename any l
 
 The test directory contains a sample Java program with websocket server code and an API for pulling data from dashboard layouts.  To connect your dashboard to the websocket server, go to options>settings and verify that the websocket URL is correct.  The dashboard will automatically connect when it detects the websocket server. 
 
+Edit: the test directory contains very outdated server-side code, so check out the "webdashboard" directory in the FTC2024 repo in this org if you want to test.  If you want to test the Java locally, you'll have to edit the code a bit and set the IP address on the dashboard to localhost
+
 # Contributing
 We would love to see how other teams can improve this project!  If you or your team is interested in contributing, simply create a pull request.  If you have any questions or suggestions that aren't suited for an issue, feel free to email us at vault6936programming@gmail.com. 
 
