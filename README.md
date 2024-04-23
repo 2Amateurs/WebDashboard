@@ -1,6 +1,6 @@
 <img src="https://github.com/Vault6936/WebDashboard/blob/main/team/banner.svg"></img>
 
-Webdashboard is a browser-based dashboard for use in FIRST Robotics Competition (FRC) and FIRST Tech Challenge (FTC).  Dashboard layouts can be edited within browsers, saved to a browser's local storage, or transferred to other browsers with JSON.  
+Rustboard is a browser-based dashboard for use in FIRST Robotics Competition (FRC) and FIRST Tech Challenge (FTC).  Dashboard layouts can be edited within browsers, saved to a browser's local storage, or transferred to other browsers with JSON.  
 
 This project first started during the 2023 Charged Up FRC season when Vault was exploring ways to make a custom payload controller interface.  Ultimately, we decided to use a touch-screen monitor to display a simple HTML dashboard.  While this was much less capable than Shuffleboard, it was also more aesthetically pleasing, more customizable, and less prone to disastrous failure before a match (If the dashboard crashes, just reload the page :D).  After our last competition, we began taking this project farther with the goal of making a better and faster alternative to Shuffleboard.
 
